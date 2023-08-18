@@ -32,7 +32,7 @@ export default {
     </div>
     <div class="lg:w-1/2">
       <h1 class="font-lato text-2xl lg:text-4xl font-bold">
-        Apakah kamu mengalami kesulitan dalam matematika?
+        Apakah kamu mengalami kesulitan matematika?
       </h1>
       <p class="mt-4 text-lg text-gray-500">
         Personalized Learning menjadi metode yang ampuh untuk mengatasi
