@@ -34,12 +34,18 @@ export default {
       <section class="mt-8">
         <h4 class="font-poppins text-xl font-medium">Untuk Siswa</h4>
         <div>
-          <div @click="$router.push({ name: 'pre-test' })">Pre-Test</div>
+          <div @click="$router.push({ name: 'pre-test' })"
+          class="mx-left mt-0 w-2/4 cursor-pointer ">
+          Pre-Test
+        </div>  
           <div>Penjelasan Gaya Belajar</div>
           <div @click="$router.push({ name: 'test-gaya-belajar' })">
             Tes Gaya Belajar
           </div>
-          <div @click="$router.push({ name: 'post-test' })">Post-Test</div>
+          <div @click="$router.push({ name: 'post-test' })"
+          class="mx-left mt-0 w-2/4 cursor-pointer ">
+        Post-Test
+      </div>
         </div>
       </section>
       <section class="mt-8">
