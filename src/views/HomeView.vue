@@ -69,7 +69,7 @@ export default {
     />
   </section>
 
-  <section id="gaya-belajar" class="container relative mx-auto mt-12">
+  <section id="gaya-belajar" class="container relative mx-auto mt-20">
     <h4 class="text-center font-lato text-2xl lg:text-4xl font-bold">
       Sesuaikan <span class="text-primary">Gaya Belajar</span> Kamu
     </h4>
@@ -110,7 +110,7 @@ export default {
     </div>
   </section>
 
-  <section class="container relative mx-auto mt-12 max-w-xl">
+  <section class="container relative mx-auto mt-20 max-w-xl">
     <h4 class="text-center font-lato text-2xl lg:text-4xl font-bold">
       Ukur <span class="text-primary">Hasil Belajar</span> Kamu
     </h4>
