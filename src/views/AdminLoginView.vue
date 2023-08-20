@@ -6,8 +6,8 @@ export default {
       username: "",
       password: "",
       admin: {
-        username: "bapak",
-        password: "agus",
+        username: "admin",
+        password: "root",
       },
     };
   },
